@@ -7,11 +7,9 @@ It integrates data visualization, a Logistic Regression model, and an interactiv
 
 
  Features
-- Data Visualization: gender distribution, stream count, CGPA & SSC histograms, placement status, etc.  
-- Machine Learning: Logistic Regression with balanced class weights and categorical encoding.  
-- Interactive GUI: Tkinter app where users enter student details and get:  
-- Placement status (Placed / Not Placed)  
-- Probability of placement  
+Data visualization of student attributes (gender, stream, CGPA, SSC, placement status, etc.)
+Logistic Regression model with balanced class weights and categorical encoding
+Tkinter-based GUI for user input and predictions (placement status and probability) 
 
 
 
@@ -25,17 +23,6 @@ It integrates data visualization, a Logistic Regression model, and an interactiv
  Tech Stack
 - Python 3.x  
 - Libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `joblib`, `tkinter`  
-
-
-
- How to Run
-```bash
-# Clone repo
-git clone https://github.com/yourusername/job-placement-predictor.git
-cd job-placement-predictor
-
-# Install dependencies
-pip install -r requirements.txt
 
 # Run application
 python placement_app.py
