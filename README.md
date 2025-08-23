@@ -16,7 +16,7 @@ Tkinter-based GUI for user input and predictions (placement status and probabili
  Dataset
 `placementdata1.csv` includes:  
 - Inputs: Age, Gender, Stream, SSC Marks, CGPA, Masters, Internships, Projects, International Competitions, Extracurricular Activities, Placement Training  
-- Target: PlacedOrNot (Placed / NotPlaced)  
+- Target: PlacedOrNot (Placed / NotPlaced)
 
 
 
