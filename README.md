@@ -24,5 +24,4 @@ Tkinter-based GUI for user input and predictions (placement status and probabili
 - Python 3.x  
 - Libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `joblib`, `tkinter`  
 
-# Run application
-python placement_app.py
+
